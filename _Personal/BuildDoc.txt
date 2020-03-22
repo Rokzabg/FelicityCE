@@ -1,0 +1,6 @@
+*** 0_9__11_03_20 ***
+
+-King still doesn't move
+-Stored fixed concast method
+
++Read what turn returns when trying to move a King
